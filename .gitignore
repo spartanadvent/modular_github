@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Folders To Ignore
+.idea/
+.sln
+
 # Runtime data
 pids
 *.pid
